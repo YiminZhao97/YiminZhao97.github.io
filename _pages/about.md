@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate in Biostatistics at <a href='https://www.washington.edu/'>University of Washington</a>
+subtitle:
 
 profile:
   align: right
