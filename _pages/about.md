@@ -9,7 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>School of Public Health</p>
     <p>University of Washington</p>
     <p>Seattle, WA</p>
 
