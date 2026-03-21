@@ -482,7 +482,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/yimin-zhao-4a4763186", "_blank");
+          window.open("https://www.linkedin.com/in/yimin-zhao-b0995b174", "_blank");
         },
       },{
         id: 'social-rss',
