@@ -1,16 +1,11 @@
 {
   "basics": {
     "name": "Yimin Zhao",
-    "label": "",
     "image": "",
     "email": "ymzhao.whu@gmail.com",
     "phone": "(410) 814-9182",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Seattle, WA",
-      "countryCode": "US",
-      "region": ""
+      "city": "Seattle, WA"
     },
     "profiles": [
       {
