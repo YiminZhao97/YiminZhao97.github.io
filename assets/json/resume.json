@@ -5,7 +5,8 @@
     "email": "ymzhao.whu@gmail.com",
     "phone": "(410) 814-9182",
     "location": {
-      "city": "Seattle, WA"
+      "city": "Seattle",
+      "region": "WA"
     },
     "profiles": [
       {
