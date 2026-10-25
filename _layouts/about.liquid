@@ -40,16 +40,16 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
 
-    {% if page.industry_experience and site.data.resume.work.size > 0 %}
-      {% include industry_experience.liquid %}
-    {% endif %}
-
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
       <h2>
         <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
       </h2>
       {% include news.liquid limit=true %}
+    {% endif %}
+
+    {% if page.industry_experience and site.data.resume.work.size > 0 %}
+      {% include industry_experience.liquid %}
     {% endif %}
 
     <!-- Latest posts -->
