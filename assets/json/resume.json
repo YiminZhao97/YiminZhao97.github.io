@@ -108,7 +108,7 @@
     },
     {
       "title": "Agents' Last Exam",
-      "publisher": "Accepted to NeurIPS 2026 Evaluations and Datasets Track",
+      "publisher": "NeurIPS 2026 Evaluations and Datasets Track",
       "releaseDate": "2026",
       "summary": "Contributed to a benchmark evaluating agents on long-horizon, economically valuable real-world tasks through verifiable task outcomes.",
       "url": "https://arxiv.org/abs/2606.05405"
