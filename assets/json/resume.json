@@ -108,9 +108,10 @@
     },
     {
       "title": "Agents' Last Exam",
-      "publisher": "NeurIPS 2026",
+      "publisher": "Accepted to NeurIPS 2026 Evaluations and Datasets Track",
       "releaseDate": "2026",
-      "summary": "Contributed to a benchmark evaluating agents on long-horizon, economically valuable real-world tasks through verifiable task outcomes."
+      "summary": "Contributed to a benchmark evaluating agents on long-horizon, economically valuable real-world tasks through verifiable task outcomes.",
+      "url": "https://arxiv.org/abs/2606.05405"
     },
     {
       "title": "A minimal gene set characterizes multiple classes of tumor-specific TIL among different cancer types",
